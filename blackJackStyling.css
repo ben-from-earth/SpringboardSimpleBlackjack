@@ -1,0 +1,29 @@
+#root {
+  align-items: center;
+  padding: 100px;
+}
+body {
+  background-color: rgb(17, 103, 17);
+}
+.table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.cardContainer img {
+  margin: 10px;
+}
