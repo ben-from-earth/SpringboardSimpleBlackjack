@@ -1,2 +1,2 @@
 # SpringboardSimpleBlackjack
-using react and react modules to fetch data from Deck of Cards API
+using jsx to fetch data from Deck of Cards API and calculate total of the cards 
